@@ -1,0 +1,7 @@
+streamlit
+pandas
+openai==1.25.1
+langchain==0.1.14
+langchain-core==0.1.30
+python-dotenv
+matplotlib
