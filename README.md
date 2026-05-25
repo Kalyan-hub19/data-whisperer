@@ -30,6 +30,6 @@ Upload any CSV file and ask natural language questions to get instant answers, c
 
 ### 1. Clone the Repository
 
-```bash
-git clone https://github.com/Siddharthkummari/data-whisperer.git
+```
+git clone https://github.com/Kalyan-hub19/data-whisperer.git
 cd data-whisperer
