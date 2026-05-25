@@ -33,3 +33,13 @@ Upload any CSV file and ask natural language questions to get instant answers, c
 ```
 git clone https://github.com/Kalyan-hub19/data-whisperer.git
 cd data-whisperer
+---
+## 1. create a virtual environment
+ python -m venv venv
+source venv/bin/activate  # On Windows use: venv\Scripts\activate
+---
+2.install dependencies
+pip install -r requirements.txt
+---
+3.Run the apllication
+streamlit run app.py
